@@ -1,0 +1,2 @@
+<p>Today's welcome message is:</p>
+<h1>{{content.label}}</h1>
